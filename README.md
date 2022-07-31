@@ -1,2 +1,2 @@
-# hfr
+# HFR
 A Human Following Robot
